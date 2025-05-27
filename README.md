@@ -1,4 +1,4 @@
-# Currículo Codificado de 2025 - Daniel Amorim do Nascimento
+# Currículo Codificado de 2025 - Daniel Amorim
 
 Este projeto é uma versão digital e codificada do meu currículo no ano de 2025, desenvolvida com HTML e CSS puros. A ideia é apresentar de forma clara e moderna minhas informações profissionais, acadêmicas e habilidades técnicas, tudo em um formato visualmente agradável e acessível via navegador.
 
