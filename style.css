@@ -1,0 +1,38 @@
+.nome-esquerda {
+    
+    top: 0%;
+    left: 0%;
+    width: 300px;
+    word-wrap: break-word;
+    text-align: left;
+}
+
+.nome-direita {
+  position:absolute;
+    top: 0%;
+    right: 0%;
+    width: 200px;
+    word-wrap: break-word;
+    text-align: right;
+    color: gray;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%; /* ou defina um valor fixo como 800px */
+    text-align: left;
+    white-space: nowrap; /* impede quebra de linha */
+  }
+  
+  td {
+    border: 2px solid black;
+    vertical-align: top;
+    padding: 10px;
+  }
+  
+  ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+  
